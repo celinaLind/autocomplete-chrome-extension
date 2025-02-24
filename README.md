@@ -3,9 +3,8 @@
 For this project, you will be building a Chrome Extension that enables autocomplete for text fields on any website. Imagine you are writing a blog, filling out a form, or writing anything on a website, and you have an AI copilot to suggest completions for all the text you write, similar to what Cursor does with code.
 
 ### Project Requirements:
-
-​- Display inline text completions while the user is typing
-- ​Complete the text when the user hits tab
+- Display inline text completions while the user is typing
+- Complete the text when the user hits tab
 - Handle edge cases like scrolling, text selection, and cursor position
 - ​Work across sites without breaking their existing functionality
   
